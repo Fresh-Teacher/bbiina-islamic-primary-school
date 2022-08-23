@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Bell
-Template URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+# This repository is live at https://freshteacher.tech/bbiina-islamic-primary-school
